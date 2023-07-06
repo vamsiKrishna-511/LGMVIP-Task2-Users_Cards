@@ -1,0 +1,19 @@
+.flex {
+    display: flex;
+    align-items: center;
+
+}
+
+.user-container {
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#user-card-template {
+    background-color: #87cefa;
+}
+
+#user-image {
+    width: 100%;
+}
+main{background-color: #87cefa;}
